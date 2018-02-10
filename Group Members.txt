@@ -2,7 +2,7 @@ Name: Rami Ammourah
 NetID: ramiaa2
 
 Name: Brian Griffin
-NetID:
+NetID: bmgriff2
 
 Name: Felipe Arias
 NetID: 
